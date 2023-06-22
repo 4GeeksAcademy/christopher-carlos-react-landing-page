@@ -1,13 +1,19 @@
+
+
 .jumbotron{
-    padding: 20px 50px 80px 50px;
+    padding: 30px 50px 80px 50px;
+    margin-bottom: 20px;
+    margin-top: 70px;
 }
-.card-container {
+.card-deck{
     display: inline-flex;
+    width: 100%;
+    
+    
 }
 .card {
-    width: 300px;
+    width: 325px;
     height: 500px;
     text-align: center;
-    margin: 12px;
 }
 

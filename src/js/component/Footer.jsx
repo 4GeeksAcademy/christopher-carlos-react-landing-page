@@ -2,7 +2,7 @@ import React from "react";
 
 const Footer = () =>{
     return (
-        <div>hi</div>
+        <div className="text-center">hi</div>
     )
 }
 

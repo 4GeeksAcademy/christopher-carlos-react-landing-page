@@ -14,7 +14,7 @@ const Home = () => {
         <div className="container">
             <Navbar />
             <Jumbotron />
-            <div className="card-container">
+            <div className="card-deck justify-content-center">
                 <Card />
                 <Card />
                 <Card />
