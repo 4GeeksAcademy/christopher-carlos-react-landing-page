@@ -5,15 +5,9 @@
     margin-bottom: 20px;
     margin-top: 70px;
 }
-.card-deck{
-    display: inline-flex;
-    width: 100%;
-    
-    
-}
-.card {
-    width: 325px;
+
+
+.card{
     height: 500px;
-    text-align: center;
 }
 
